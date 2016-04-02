@@ -1,0 +1,19 @@
+package frsf.cidisi.exercise.tpia2016.search;
+
+import frsf.cidisi.faia.exceptions.PrologConnectorException;
+import frsf.cidisi.faia.simulator.SearchBasedAgentSimulator;
+
+public class GuideAgent Main {
+
+    public static void main(String[] args) throws PrologConnectorException {
+        GuideAgent  agent = new GuideAgent ();
+
+        EnvironmentUniversity environment = new EnvironmentUniversity();
+
+        SearchBasedAgentSimulator simulator =
+                new SearchBasedAgentSimulator(environment, agent);
+        
+        simulator.start();
+    }
+
+}

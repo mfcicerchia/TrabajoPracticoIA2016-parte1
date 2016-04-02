@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 element(s) from project &apos;TPIA2016&apos;&#x0D;&#x0A;- Original project: &apos;TPIA2016&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     TPIA2016/src/frsf.cidisi.exercise.tpia2016.search&#x0D;&#x0A;     TPIA2016/src/frsf.cidisi.exercise.tpia2016.search.actions" description="Delete elements" element1="/src&lt;frsf.cidisi.exercise.tpia2016.search.actions" element2="/src&lt;frsf.cidisi.exercise.tpia2016.search" element3="/src&lt;frsf.cidisi.exercise.tpia2016" element4="/src&lt;frsf.cidisi.exercise" element5="/src&lt;frsf.cidisi" element6="/src&lt;frsf" elements="6" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1459568387443" subPackages="false" version="1.0"/>
+</session>
