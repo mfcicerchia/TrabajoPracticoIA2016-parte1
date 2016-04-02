@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="30" version="2.0">
+<workbench progressCount="25" version="2.0">
 <workbenchAdvisor/>
-<window height="760" maximized="true" width="1024" x="52" y="0">
+<window height="760" maximized="true" width="1024" x="182" y="0">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
 </perspectiveBar>
 <coolbarLayout locked="0">
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="561" y="22"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="99" y="22"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
 <coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="99" y="22"/>
@@ -21,11 +21,10 @@
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="utn.frsf.cidisi.idemia.diagram.part.IdemiaDiagramEditorID" itemType="typeToolBarContribution" x="900" y="22"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
-<page aggregateWorkingSetId="Aggregate for window 1459567870778" focus="true" label="Workspace - Java">
+<page aggregateWorkingSetId="Aggregate for window 1459570652541" focus="true" label="Workspace - Java">
 <editors>
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
@@ -34,31 +33,25 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
-<part id="3"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="utn.frsf.cidisi.idemia.diagram.part.IdemiaDiagramEditorID" name="TPIA2016.idemia_diagram" partName="TPIA2016.idemia_diagram" path="C:/Users/martin.marta/Documents/GitHub/TP IA 2016/TPIA2016/Model/TPIA2016.idemia_diagram" title="TPIA2016.idemia_diagram" tooltip="TPIA2016/Model/TPIA2016.idemia_diagram" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TPIA2016/Model/TPIA2016.idemia_diagram"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Edificio.java" partName="Edificio.java" path="C:/Users/martin.marta/Documents/GitHub/TrabajoPracticoIA2016-parte1/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Edificio.java" title="Edificio.java" tooltip="TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Edificio.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Edificio.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="336" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AgenteGuia.java" partName="AgenteGuia.java" path="C:/Users/martin.marta/Desktop/inteligencia artificial/TP IA 2016/TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuia.java" title="AgenteGuia.java" tooltip="TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuia.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuia.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="997" selectionTopPixel="1085"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AgenteGuiaMain.java" partName="AgenteGuiaMain.java" path="C:/Users/martin.marta/Documents/GitHub/TP IA 2016/TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuiaMain.java" title="AgenteGuiaMain.java" tooltip="TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuiaMain.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuiaMain.java"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Habitacion.java" partName="Habitacion.java" path="C:/Users/martin.marta/Documents/GitHub/TrabajoPracticoIA2016-parte1/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Habitacion.java" title="Habitacion.java" tooltip="TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Habitacion.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Habitacion.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Edificio.java" partName="Edificio.java" path="C:/Users/martin.marta/Documents/GitHub/TP IA 2016/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Edificio.java" title="Edificio.java" tooltip="TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Edificio.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Edificio.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="82" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Conexion.java" partName="Conexion.java" path="C:/Users/martin.marta/Documents/GitHub/TrabajoPracticoIA2016-parte1/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Conexion.java" title="Conexion.java" tooltip="TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Conexion.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Conexion.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
-<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc">
-<viewState/>
-</view>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 <view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Hierarchy"/>
 <view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
 <viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
@@ -97,10 +90,10 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>&#x0A;<category IMemento.internal.id="Errors"/>
-<category IMemento.internal.id="Errors (3 items)"/>
+<expanded>
+<category IMemento.internal.id="Errors (1 item)"/>
 </expanded>
-<columnWidths org.eclipse.ui.ide.locationField="64" org.eclipse.ui.ide.markerType="94" org.eclipse.ui.ide.pathField="124" org.eclipse.ui.ide.resourceField="209" org.eclipse.ui.ide.severityAndDescriptionField="623"/>
+<columnWidths org.eclipse.ui.ide.locationField="64" org.eclipse.ui.ide.markerType="94" org.eclipse.ui.ide.pathField="124" org.eclipse.ui.ide.resourceField="94" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
@@ -108,9 +101,7 @@
 <visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
 </viewState>
 </view>
-<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
-<viewState/>
-</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
 <view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
 <viewState/>
 </view>
@@ -217,9 +208,9 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.2789598" ratioLeft="354" ratioRight="915" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.799682" ratioLeft="503" ratioRight="126" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.jdt.ui.SourceView" appearance="2" expanded="2">
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="250" ratioRight="750" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.7492163" ratioLeft="478" ratioRight="160" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
@@ -259,65 +250,40 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="utn.frsf.cidisi.idemia.diagram.part.IdemiaDiagramEditorID" path="/TPIA2016/Model/TPIA2016.idemia_diagram"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuia.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuiaMain.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Edificio.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuiaMain.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="utn.frsf.cidisi.idemia.diagram.part.IdemiaDiagramEditorID" path="/TPIA2016/Model/TPIA2016.idemia_diagram"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Habitacion.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Conexion.java"/>
 </editors>
-<item historyLabel="TPIA2016.idemia_diagram" index="0"/>
-<item historyLabel="AgenteGuia.java" index="1">
+<item historyLabel="Edificio.java" index="0">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="AgenteGuiaMain.java" index="2">
+<item historyLabel="Edificio.java" index="0">
+<position info="not_deleted" x="384" y="0"/>
+</item>
+<item historyLabel="Edificio.java" index="0">
+<position info="not_deleted" x="255" y="9"/>
+</item>
+<item historyLabel="Edificio.java" index="0">
+<position info="not_deleted" x="265" y="10"/>
+</item>
+<item historyLabel="Habitacion.java" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="AgenteGuia.java" index="1">
+<item historyLabel="Edificio.java" index="0">
+<position info="not_deleted" x="265" y="10"/>
+</item>
+<item historyLabel="Edificio.java" index="0">
+<position info="not_deleted" x="384" y="0"/>
+</item>
+<item historyLabel="Edificio.java" index="0">
+<position info="not_deleted" x="316" y="8"/>
+</item>
+<item historyLabel="Conexion.java" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="AgenteGuia.java" index="1">
-<position info="not_deleted" x="852" y="9"/>
+<item active="true" historyLabel="Edificio.java" index="0">
+<position info="not_deleted" x="316" y="8"/>
 </item>
-<item historyLabel="AgenteGuia.java" index="1">
-<position info="not_deleted" x="997" y="0"/>
-</item>
-<item historyLabel="TPIA2016.idemia_diagram" index="0"/>
-<item historyLabel="Edificio.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Edificio.java" index="3">
-<position info="not_deleted" x="62" y="8"/>
-</item>
-<item historyLabel="Edificio.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Edificio.java" index="3">
-<position info="not_deleted" x="62" y="8"/>
-</item>
-<item historyLabel="Edificio.java" index="3">
-<position info="not_deleted" x="96" y="0"/>
-</item>
-<item historyLabel="Edificio.java" index="3">
-<position info="not_deleted" x="75" y="0"/>
-</item>
-<item historyLabel="Edificio.java" index="3">
-<position info="not_deleted" x="62" y="8"/>
-</item>
-<item historyLabel="TPIA2016.idemia_diagram" index="0"/>
-<item historyLabel="Edificio.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Edificio.java" index="3">
-<position info="not_deleted" x="75" y="0"/>
-</item>
-<item historyLabel="Edificio.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="AgenteGuiaMain.java" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item active="true" historyLabel="TPIA2016.idemia_diagram" index="5"/>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
@@ -335,20 +301,17 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Edificio.java" tooltip="TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Edificio.java">
-<persistable path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Edificio.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AgenteGuiaMain.java" tooltip="TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuiaMain.java">
-<persistable path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuiaMain.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AgenteGuia.java" tooltip="TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuia.java">
-<persistable path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/search/AgenteGuia.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Conexion.java" tooltip="TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Conexion.java">
+<persistable path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Conexion.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="diagramaDeClases.dia" tooltip="TPIA2016/diagrama de clases/diagramaDeClases.dia">
 <persistable path="/TPIA2016/diagrama de clases/diagramaDeClases.dia"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="utn.frsf.cidisi.idemia.diagram.part.IdemiaDiagramEditorID" name="TPIA2016.idemia_diagram" tooltip="TPIA2016/Model/TPIA2016.idemia_diagram">
-<persistable path="/TPIA2016/Model/TPIA2016.idemia_diagram"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Habitacion.java" tooltip="TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Habitacion.java">
+<persistable path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Habitacion.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Edificio.java" tooltip="TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Edificio.java">
+<persistable path="/TPIA2016/src/frsf/cidisi/exercise/tpia2016/modelo/Edificio.java"/>
 </file>
 </mruList>
 </workbench>
