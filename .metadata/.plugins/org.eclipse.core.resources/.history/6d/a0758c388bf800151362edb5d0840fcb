@@ -9,10 +9,5 @@ public class Edificio {
 	private ArrayList<Habitacion> listaHabitaciones;
 	private ArrayList<Conexion> listaConexiones;
 	
-	
-	public void Edficio(){
-		
-	}
-	
 
 }
