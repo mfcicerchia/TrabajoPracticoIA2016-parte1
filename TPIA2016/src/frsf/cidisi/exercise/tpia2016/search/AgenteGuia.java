@@ -6,8 +6,6 @@ import frsf.cidisi.exercise.tpia2016.search.actions.IrEscalera;
 import frsf.cidisi.exercise.tpia2016.search.actions.IrDepartamento;
 import frsf.cidisi.exercise.tpia2016.search.actions.IrBaño;
 import frsf.cidisi.exercise.tpia2016.search.actions.IrPasillo;
-import frsf.cidisi.exercise.tpia2016.search.actions.SubirNivel;
-import frsf.cidisi.exercise.tpia2016.search.actions.BajarNivel;
 
 import frsf.cidisi.faia.agent.Perception;
 import frsf.cidisi.faia.agent.search.Problem;
@@ -38,8 +36,6 @@ public class AgenteGuia extends SearchBasedAgent {
         operators.addElement(new IrDepartamento());	
         operators.addElement(new IrBaño());	
         operators.addElement(new IrPasillo());	
-        operators.addElement(new SubirNivel());	
-        operators.addElement(new BajarNivel());	
 
         // Create the Problem which the agent will resolve
         Problem problem = new Problem(agGoal, agState, operators);
